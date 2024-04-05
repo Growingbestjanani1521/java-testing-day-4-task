@@ -1,0 +1,24 @@
+1. write a blog on below questions describe the differences between 1. smoke and sanity testing 2.validation and verification?
+
+Smoke Testing vs. Sanity Testing: Navigating the Initial Test Phases
+
+When diving into software testing, understanding the nuances between different testing methodologies is crucial. 
+Smoke testing and sanity testing serve distinct purposes despite their similar goals. Smoke testing, the initial phase, 
+focuses on confirming whether the most critical functionalities of the software work. Conversely, sanity testing, a more 
+targeted approach, validates specific functionalities or code changes. Both aim to catch early-stage issues but differ in scope and 
+depth, forming the cornerstone of efficient testing strategies.
+
+Validation vs. Verification: Clarifying Testing Objectives
+
+In the realm of software testing, validation and verification play pivotal roles, 
+yet they address distinct aspects. Verification ensures that the software conforms to its specifications, 
+essentially asking, "Are we building the product right?" On the other hand, validation evaluates whether the 
+software meets the customer's needs, posing the question, "Are we building the right product?" While verification 
+emphasizes adherence to requirements, validation emphasizes customer satisfaction, collectively ensuring a robust and
+ user-centric software development process.
+
+
+
+
+
+
